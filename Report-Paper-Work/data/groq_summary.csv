@@ -1,0 +1,4 @@
+method,completed,target,accuracy,numerical_accuracy,numerical_n,numerical_completed,answer_coverage,abstentions,abstention_rate,api_failures,api_failure_rate,citation_valid_rate,review_count,avg_latency_s,api_calls,total_tokens
+direct,22,40,0.05,0.05555555555555555,36,21,0.1,18,0.45,0,0.0,0.1,1,13.624577604228927,24,41544
+rag,22,40,0.025,0.027777777777777776,36,21,0.1,18,0.45,0,0.0,0.1,2,11.200598386412656,24,36776
+hybrid,22,40,0.175,0.19444444444444445,36,21,0.225,12,0.3,1,0.025,0.225,2,8.097830101149157,24,31471
