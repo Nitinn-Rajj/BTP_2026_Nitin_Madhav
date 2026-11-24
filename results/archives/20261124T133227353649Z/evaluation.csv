@@ -1,0 +1,1 @@
+design,id,type,method,answer,reference_answer,status,validation_error,abstention_reason,normalized_exact_match,numerical_value_match,numeric_question,numerical_correct,structured_semantic_match,extractive_prose_match,correct,needs_review,citation_valid,abstained,api_failure,latency_s,api_calls,prompt_tokens,completion_tokens,total_tokens

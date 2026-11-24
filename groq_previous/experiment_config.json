@@ -1,0 +1,232 @@
+{
+  "seed": 42,
+  "sample_size": 40,
+  "designs": [
+    "aes_asap7",
+    "aes_nangate45",
+    "ibex_sky130hd"
+  ],
+  "selected_questions": [
+    {
+      "design": "aes_asap7",
+      "id": "Q_FLOW_001_P02",
+      "type": "flow_execution"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_SINGLE_003_P01",
+      "type": "single_stage"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_MULTI_006_P03",
+      "type": "multi_stage"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_FINAL_001_P02",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_FLOW_001_P01",
+      "type": "flow_execution"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_SINGLE_003_P03",
+      "type": "single_stage"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_MULTI_003_P02",
+      "type": "multi_stage"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_FINAL_004_P03",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_FLOW_001_P02",
+      "type": "flow_execution"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_SINGLE_001_P03",
+      "type": "single_stage"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_MULTI_002_P05",
+      "type": "multi_stage"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_FINAL_002_P04",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_FLOW_001_P03",
+      "type": "flow_execution"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_SINGLE_001_P02",
+      "type": "single_stage"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_MULTI_008_P03",
+      "type": "multi_stage"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_FINAL_004_P04",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_FLOW_001_P02",
+      "type": "flow_execution"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_SINGLE_002_P01",
+      "type": "single_stage"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_MULTI_003_P04",
+      "type": "multi_stage"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_FINAL_003_P02",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_FLOW_001_P01",
+      "type": "flow_execution"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_SINGLE_004_P01",
+      "type": "single_stage"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_MULTI_010_P03",
+      "type": "multi_stage"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_FINAL_002_P03",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_FLOW_001_P01",
+      "type": "flow_execution"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_SINGLE_002_P03",
+      "type": "single_stage"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_MULTI_004_P04",
+      "type": "multi_stage"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_FINAL_003_P02",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_FLOW_001_P03",
+      "type": "flow_execution"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_SINGLE_005_P02",
+      "type": "single_stage"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_MULTI_004_P02",
+      "type": "multi_stage"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_FINAL_003_P03",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_FLOW_001_P05",
+      "type": "flow_execution"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_SINGLE_006_P02",
+      "type": "single_stage"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_MULTI_002_P02",
+      "type": "multi_stage"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_FINAL_003_P02",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "aes_nangate45",
+      "id": "Q_SINGLE_003_P01",
+      "type": "single_stage"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_MULTI_003_P02",
+      "type": "multi_stage"
+    },
+    {
+      "design": "ibex_sky130hd",
+      "id": "Q_FINAL_004_P05",
+      "type": "stage_to_final"
+    },
+    {
+      "design": "aes_asap7",
+      "id": "Q_SINGLE_003_P02",
+      "type": "single_stage"
+    }
+  ],
+  "upstream_url": "https://github.com/NVlabs/EDAFlowQA",
+  "upstream_commit": "d1e43c63ae2adb69a5867328fecb0706f190a226",
+  "methods": [
+    "direct",
+    "rag",
+    "hybrid"
+  ],
+  "model": "openai/gpt-oss-20b",
+  "temperature": 0,
+  "reasoning_effort": "low",
+  "max_completion_tokens": 512,
+  "context_chars": 3500,
+  "numerical_rel_tolerance": 0.01,
+  "numerical_abs_tolerance_by_base_unit": {
+    "s": 1e-12,
+    "m": 1e-09,
+    "w": 1e-09,
+    "%": 0.0001,
+    "unitless": 1e-06
+  },
+  "truncation": "Direct: main log then reports; head and tail within fixed 3500-character cap. RAG/Hybrid: BM25 top evidence under same cap."
+}
